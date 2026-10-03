@@ -311,6 +311,7 @@ android_app_import {
     product_specific: true,
 }
 
+/*
 android_app_import {
     name: "AICorePrebuilt-aicore_20260302.01_RC00",
     owner: "google",
@@ -323,6 +324,7 @@ android_app_import {
     privileged: true,
     product_specific: true,
 }
+*/
 
 android_app_import {
     name: "AppDirectedSMSService",
@@ -399,7 +401,7 @@ android_app_import {
     product_specific: true,
 }
 
-android_app_import {
+/*android_app_import {
     name: "DeviceIntelligenceNetworkPrebuiltAstrea",
     owner: "google",
     apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuiltAstrea/DeviceIntelligenceNetworkPrebuiltAstrea.apk",
@@ -423,7 +425,7 @@ android_app_import {
     },
     privileged: true,
     product_specific: true,
-}
+}*/
 
 android_app_import {
     name: "DiagMon",
